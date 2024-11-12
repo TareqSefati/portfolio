@@ -19,4 +19,4 @@ It is simple React project of my portfolio. UI design is fully responsive.
 4. Image content (static) section like "Course Gallery"
 5. Footer section
 
--   Live URL: 
+-   Live URL: https://portfolio-seven-liart-50.vercel.app/
