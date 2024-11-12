@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Online Book Shop",
+        "imageUrl": "online_book_shop.png",
+        "description": "It is simple React front end project using Firebase Authentication mechanism with mongo db",
+        "projectTrack": "React",
+        "technologyUsed": "HTML, TailwindCSS, DaisyUI, React, React Router DOM, Firebase Authentication, React-helmet, React-hot-toast",
+        "liveUrl": "https://online-book-shop-ui-v2.netlify.app/",
+        "githubUrl": "https://github.com/TareqSefati/online-book-shop-ui"
+    },
+    {
+        "id": "3",
+        "name": "Code Course Academy",
+        "imageUrl": "code_course_academy.png",
+        "description": "It is simple React front end project using Firebase & React Router. ",
+        "projectTrack": "React",
+        "technologyUsed": "HTML, TailwindCSS, DaisyUI, React, React Router DOM, Firebase Authentication",
+        "liveUrl": "https://code-course-academy-ui.web.app/",
+        "githubUrl": "https://github.com/TareqSefati/code-course-academy-ui"
+    },
+    {
+        "id": "5",
+        "name": "Simple Book Shop",
+        "imageUrl": "simple_book_shop.png",
+        "description": "it is a simple Static website",
+        "projectTrack": "React",
+        "technologyUsed": "HTML, TailwindCSS, DaisyUI, React, React Router DOM",
+        "liveUrl": "https://simplebook-shop.netlify.app/",
+        "githubUrl": "https://github.com/TareqSefati/simple-book-shop"
+    },
+    {
+        "id": "6",
+        "name": "Food Corner Website",
+        "imageUrl": "food_corner_website.png",
+        "description": "It is a simple food related website focuses on handling the API call using JavaScript and and view the response in webpage with fully responsive design",
+        "projectTrack": "Html & JS",
+        "technologyUsed": "HTML, TailwindCSS, DaisyUI, JavaScript (ES6)",
+        "liveUrl": "https://tareqsefati.github.io/food-corner/",
+        "githubUrl": "https://github.com/TareqSefati/food-corner"
+    },
+    {
+        "id": "7",
+        "name": "Tea House",
+        "imageUrl": "tea_house.png",
+        "description": "It is a simple landing page design using Tailwind css & Daisy UI",
+        "projectTrack": "Html & CSS",
+        "technologyUsed": "HTML, TailwindCSS, JavaScript (ES6)",
+        "liveUrl": "https://tareqsefati.github.io/tea-house/",
+        "githubUrl": "https://github.com/TareqSefati/tea-house"
+    },
+    {
+        "id": "8",
+        "name": "Secret Key Matcher",
+        "imageUrl": "key_matcher.png",
+        "description": "This is a single page simple web application using vanilla html, css & Java script.",
+        "projectTrack": "Html & CSS",
+        "technologyUsed": "HTML, CSS, JavaScript (ES6)",
+        "liveUrl": "https://tareqsefati.github.io/Secret-Key-Matcher/",
+        "githubUrl": "https://github.com/TareqSefati/Secret-Key-Matcher"
+    }
+]

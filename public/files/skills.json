@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Java",
+        "level": "8"
+    },
+    {
+        "name": "Spring Boot",
+        "level": "8"
+    },
+    {
+        "name": "JavaFX",
+        "level": "8"
+    },
+    {
+        "name": "RestAPI",
+        "level": "8"
+    },
+    {
+        "name": "Java Socket",
+        "level": "8"
+    },
+    {
+        "name": "WebSocket",
+        "level": "8"
+    },
+    {
+        "name": "JasperReports",
+        "level": "8"
+    },
+    {
+        "name": "Kafka",
+        "level": "8"
+    },
+    {
+        "name": "React",
+        "level": "8"
+    },
+    {
+        "name": "Next.js",
+        "level": "8"
+    },
+    {
+        "name": "Node.js",
+        "level": "8"
+    },
+    {
+        "name": "MongoDB",
+        "level": "8"
+    },
+    {
+        "name": "MySQL",
+        "level": "8"
+    },
+    {
+        "name": "Docker",
+        "level": "8"
+    },
+    {
+        "name": "Tailwind CSS",
+        "level": "8"
+    },
+    {
+        "name": "Shadcn UI",
+        "level": "8"
+    },
+    {
+        "name": "Daisy UI",
+        "level": "8"
+    },
+    {
+        "name": "Visual Studio Code",
+        "level": "8"
+    },
+    {
+        "name": "IntelliJ IDEA",
+        "level": "8"
+    },
+    {
+        "name": "Git",
+        "level": "8"
+    },
+    {
+        "name": "Eclipse",
+        "level": "8"
+    },
+    {
+        "name": "NetBeans",
+        "level": "8"
+    },
+    {
+        "name": "Notepad++",
+        "level": "8"
+    },
+    {
+        "name": "Postman",
+        "level": "8"
+    }
+]
