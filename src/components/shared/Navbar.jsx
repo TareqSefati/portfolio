@@ -95,7 +95,7 @@ export default function Navbar() {
 				</div>
 				<div className="navbar-end space-x-2">
 					<div>
-						<Link to={ROUTES.LOGIN}><a className="btn btn-sm btn-outline md:btn md:btn-outline">Hire Me</a></Link>
+						<Link to={ROUTES.HOME}><a className="btn btn-sm btn-outline md:btn md:btn-outline">Hire Me</a></Link>
 					</div>
 					<label className="swap swap-rotate mt-3">
 						{/* this hidden checkbox controls the state */}

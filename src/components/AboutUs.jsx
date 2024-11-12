@@ -1,14 +1,10 @@
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faCode, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Helmet } from "react-helmet-async";
 
 export default function AboutUs() {
 	return (
 		<section>
-			<Helmet>
-				<title>About</title>
-			</Helmet>
 			<div className="mb-5 mt-10">
 				<h1
 					className="text-center font-semibold text-5xl mb-5"
